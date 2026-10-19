@@ -1,4 +1,4 @@
-const STORAGE_KEY = "family-safety-card-v1";
+const STORAGE_KEY = "family-safety-card-v2";
 const defaultPlan = {
   contacts: Array.from({ length: 3 }, () => ({ name: "", relation: "", phone: "" })),
   verify: ["回撥原本儲存的電話", "先向 165 反詐騙專線查詢"],
