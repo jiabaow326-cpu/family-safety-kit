@@ -1,0 +1,12 @@
+{
+  "name": "家安小卡｜家庭反詐應急計畫",
+  "short_name": "家安小卡",
+  "description": "離線建立家庭反詐應急小卡，預先約定查證方式與可信任聯絡人。",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f4",
+  "theme_color": "#103b36",
+  "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
