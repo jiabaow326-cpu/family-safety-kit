@@ -2,6 +2,8 @@
 
 一個離線優先、免註冊的家庭應急小卡 Web App。使用者可以預先設定可信任聯絡人、獨立查證方式與家庭暗號；遇到催促匯款、保密、提供驗證碼或分享螢幕等要求時，按清單停止操作並查證。
 
+**線上預覽：** <https://jiabaow326-cpu.github.io/family-safety-kit/>  ·  **原始碼：** <https://github.com/jiabaow326-cpu/family-safety-kit>
+
 ## 使用方式
 
 ### 本機預覽
